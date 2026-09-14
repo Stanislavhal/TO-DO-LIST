@@ -23,7 +23,7 @@ Completed tasks can be removed individually or all at once using the Clear Compl
 The application uses localStorage to save the task data in the browser. This allows tasks to remain available after the page is refreshed or reopened.
 Live Demo
 Try the live version of the project:
-View To-do list
+[View To-do List](https://stanislavhal.github.io/TO-DO-LIST/)
 Screenshot
 ![To-do List](assets/todo-list-screenshot.png)
 
