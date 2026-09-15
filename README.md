@@ -1,4 +1,4 @@
-To-do list
+To-do List
 A simple and responsive task management application built with HTML, CSS, and JavaScript.
 This project allows users to add, edit, delete, and complete tasks. Completed tasks are moved to a separate section, where users can manage and clear them. Tasks are stored in the browser using localStorage, so they remain available after refreshing or reopening the page.
 Features
@@ -23,9 +23,8 @@ Completed tasks can be removed individually or all at once using the Clear Compl
 The application uses localStorage to save the task data in the browser. This allows tasks to remain available after the page is refreshed or reopened.
 Live Demo
 Try the live version of the project:
-[View To-do List](https://stanislavhal.github.io/TO-DO-LIST/)
+View To-do List
 Screenshot
-![To-do List](assets/todo-list-screenshot.png)
 
 What I Learned
 While building this project, I practiced:
